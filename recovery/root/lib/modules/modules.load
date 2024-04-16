@@ -176,3 +176,4 @@ tran_rhi.ko
 tran_fp.ko
 tran_expand_key.ko
 tran_auto_test.ko
+sdcard_debug.ko

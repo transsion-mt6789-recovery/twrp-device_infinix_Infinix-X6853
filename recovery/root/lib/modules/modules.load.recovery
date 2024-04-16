@@ -206,3 +206,4 @@ atomic_info.ko
 st21nfc.ko
 tnek.ko
 tran_auto_test.ko
+sdcard_debug.ko
