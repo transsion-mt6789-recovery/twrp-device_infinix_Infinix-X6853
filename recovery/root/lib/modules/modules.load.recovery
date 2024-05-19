@@ -205,5 +205,6 @@ lzo-rle.ko
 atomic_info.ko
 st21nfc.ko
 tnek.ko
+thd.ko
 tran_auto_test.ko
 sdcard_debug.ko
