@@ -214,3 +214,4 @@ tran-proc-bootdevice-mod.ko
 tran_auto_test.ko
 sdcard_debug.ko
 nfc_i2c.ko
+trangpio.ko

@@ -300,6 +300,8 @@ alias of:N*T*Cmediatek,mt8183-wdt mtk_wdt
 alias of:N*T*Cmediatek,mt8183-wdtC* mtk_wdt
 alias of:N*T*Ctranssion,temp_forecast tran_temp_forecast
 alias of:N*T*Ctranssion,temp_forecastC* tran_temp_forecast
+alias of:N*T*Ctranssion,trangpio trangpio
+alias of:N*T*Ctranssion,trangpioC* trangpio
 alias of:N*T*Csyscon-reboot-mode syscon_reboot_mode
 alias of:N*T*Csyscon-reboot-modeC* syscon_reboot_mode
 alias of:N*T*Cnxp,pn544 nfc_i2c
