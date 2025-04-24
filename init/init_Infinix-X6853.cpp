@@ -25,10 +25,10 @@ void vendor_load_properties()
     for (const string &prop : prop_partitions)
     {
         property_override(string("ro.product.") + prop + string("brand"), "Infinix");
-        property_override(string("ro.product.") + prop + string("name"), "X6850-OP");
-        property_override(string("ro.product.") + prop + string("device"), "Infinix-X6850");
-        property_override(string("ro.product.") + prop + string("model"), "Infinix X6850");
-        property_override(string("ro.product.") + prop + string("marketname"), "Infinix NOTE 40 Pro 4G");
-        property_override(string("ro.product.system.") + prop + string("device"), "Infinix NOTE 40 Pro 4G");
+        property_override(string("ro.product.") + prop + string("name"), "X6853-OP");
+        property_override(string("ro.product.") + prop + string("device"), "Infinix-X6853");
+        property_override(string("ro.product.") + prop + string("model"), "Infinix X6853");
+        property_override(string("ro.product.") + prop + string("marketname"), "Infinix NOTE 40 4G");
+        property_override(string("ro.product.system.") + prop + string("device"), "Infinix NOTE 40 4G");
     }
 }
